@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad Akhtar</h1>
 <h3 align="center">A passionate back-end developer 🙋‍♂️</h3>
+<img align="right" aly="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 I’m currently working on [levvy](https://www.levvy.com)
 
